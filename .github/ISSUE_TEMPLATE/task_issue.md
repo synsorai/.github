@@ -1,5 +1,5 @@
 ---
-name: Task
+name: Task Issue
 about: Describe the task and the context
 
 ---
