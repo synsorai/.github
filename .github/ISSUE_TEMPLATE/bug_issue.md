@@ -1,7 +1,7 @@
 ---
 name: Bug Issue
 about: Describe the bug and how to reproduce
-labels: 'type:bug'
+labels: 'bug'
 
 ---
 
