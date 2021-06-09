@@ -6,7 +6,7 @@ labels: 'exploration'
 ---
 
 **Context**
-A clear and concise description of what the backgound is.
+A clear and concise description of what the background is.
 What is this exploration about and what should be the outcome. Be really detailed here!
 
 **Task**
