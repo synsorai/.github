@@ -14,6 +14,23 @@ What is this task about and what problem does it solve.
 - [ ] 2. '...'
 
 
+**Pseudo Code (optional)**
+Optional: Describe the implementation, function or outcome as pseudo code. Keep it super simple (its a non working code, just for explaination)! 
+e.g.: Write a function that takes in a path str and outputs processed image and the shape
+```
+def get_img(pathstr):
+   img = load_from_full_path(Path(pathstr))
+   img = preproc_image(img) # do RGB->BGR color conversion
+   return img, img-shape
+```
+or: loop over a list and print content if the condition is met
+```
+for item in list:
+    if conditon:
+        print(content(item))
+```
+
+
 **Final goal of task/feature**
 Outlook on what the task/feature will do and impact our product.
 
