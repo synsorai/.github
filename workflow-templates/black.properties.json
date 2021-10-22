@@ -1,5 +1,5 @@
 {
     "name": "black",
     "description": "Black is a Python code formatter.",
-    "iconName": "example-icon",
+    "iconName": "black",
 }
