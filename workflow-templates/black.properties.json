@@ -1,8 +1,0 @@
-{
-    "name": "black formatter check",
-    "description": "Black is a Python code formatter.",
-    "iconName": "black",
-    "categories": [
-        "Python"
-    ]
-}
