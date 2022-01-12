@@ -1,5 +1,5 @@
 ---
-name: User Story Template
+name: User Story
 about: Template for basic user story
 
 ---
