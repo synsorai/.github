@@ -10,11 +10,6 @@ so that I can _PURPOSE of FEATURE_
 
 
 _e.g.: As an actor, I want to interact with something, so that I can achieve some objective (see [here](https://github.com/seanrioux/user-story-examples]))_
-   
-**Tasks:**    
-  1.  
-  2.  
-  3.  
 
  
 **Acceptance Criteria:**
