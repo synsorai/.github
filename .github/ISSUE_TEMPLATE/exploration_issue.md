@@ -5,16 +5,19 @@ labels: 'exploration'
 
 ---
 
-**Context**
-A clear and concise description of what the background is.
-What is this exploration about and what should be the outcome. Be really detailed here!
+------------
+As a _USER PERSONA_ \
+I want _FEATURE_, \
+so that I can _PURPOSE of FEATURE_
 
-**Task**
-- [ ] 1. '...'
-- [ ] 2. '...'
+------------
 
-**Goal of the exploration**
-What is the information the exploration should give us. What decision do we want to do based on this information.
+_e.g.: As an actor, I want to interact with something, so that I can achieve some objective (see [here](https://github.com/seanrioux/user-story-examples]))_
 
-**Additional context**
-Add any other context about the problem here.
+ 
+Acceptance Criteria:
+
+This is something that can be verified to show that this user story is satisfied.
+This is another thing which is a must to fulfill this user story.
+
+
