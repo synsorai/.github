@@ -1,6 +1,6 @@
 ### Background of your pull request
 
-_YOUR HIGHLEVEL EXPLAINATION HERE._
+_YOUR HIGH-LEVEL EXPLANATION HERE._
 
 ### Additional information
 
@@ -13,12 +13,12 @@ _YOUR SCREENSHOTS HERE._
 
 Go through the todos and delete afterwards everything below the line above.
 
-### 1. Describe the background of your pull request on a high non technical level
+### 1. Describe the background of your pull request on a high non-technical level
 
 Is it a feature -> What is the customer benefit?
 Was it a bug fix -> What is the solved issue?
 Is it an enhancement -> What is better then before?
-Was related to code maintainance -> What is better now?
+Was related to code maintenance -> What is better now?
 
 ### 2. Add additional information (optional)
 
@@ -27,7 +27,7 @@ This can be for example screenshots of a new frontend feature or another enhance
 
 ### 3. Change the name of the pull request 
 
-Change the name of the pull request, so that it aligns to the the simple highlevel non-technical explaination.
+Change the name of the pull request, so that it aligns to the the simple high level non-technical explanation.
 
 ### 4. Link related issues
 
@@ -48,4 +48,3 @@ If this pull request is causing a minor or major change, also add an according l
 - patch [default] (Patch version change, there are changes, enhancements and fixes which are backwards compatible.)
 - minor (Minor version change, there is new and extended functionality in a backwards compatible manner.)
 - major (Major version change, there are incompatible changes to previous versions.)
-
