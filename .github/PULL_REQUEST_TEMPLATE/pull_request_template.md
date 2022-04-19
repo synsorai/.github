@@ -48,3 +48,4 @@ If this pull request is causing a minor or major change, also add an according l
 - patch [default] (Patch version change, there are changes, enhancements and fixes which are backwards compatible.)
 - minor (Minor version change, there is new and extended functionality in a backwards compatible manner.)
 - major (Major version change, there are incompatible changes to previous versions.)
+
