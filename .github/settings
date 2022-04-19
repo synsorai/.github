@@ -42,3 +42,16 @@ labels:
   - name: needs refinement
     color: '#000000'
     description: Don't start working on this, this issue needs a task refinement.
+    
+  - name: major
+    color: '#d9d9d9'
+    description: Major version change, there are incompatible API changes.
+
+  - name: minor
+    color: '#d9d9d9'
+    description: Minor version change, there is new and extended functionality in a backwards compatible manner.
+
+  - name: patch
+    color: '#d9d9d9'
+    description: Patch version change, there are changes, enhancements and fixes which are backwards compatible.
+    
